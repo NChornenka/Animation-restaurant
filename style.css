@@ -9,13 +9,15 @@
     align-self: center;
     background-color:#930b0c;
     border: none;
+    border-radius: 10px;
     padding: 35px;
     color: #f3ecca;
     font-size: 20px;
     margin-top: 20px;  
     position: absolute;
     width: 20%;
-    font-family: 'Klee One', cursive;} 
+    font-family: 'Klee One', cursive;
+} 
   
   
   
